@@ -1,5 +1,8 @@
-Harapannya apa sih di tahun 2023 besok :
-1. Lulus kuliah tepat waktu
-2. Bekerja di perusahaan terkenal
-3. Banyak uangnya
-4. Bisa membuat website sederhana
+<html>
+<head>
+<title. HTML di GITHUB</title>
+</head>
+<body>
+selamat Datang di Web Punya Aryani
+</body>
+</html>
